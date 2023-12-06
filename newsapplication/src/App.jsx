@@ -4,6 +4,7 @@ import NewsBoard from "./Components/NewsBoard"
 
 
 
+
 const App = () => {
   const [category,setCategory]=useState("general");
   return (
